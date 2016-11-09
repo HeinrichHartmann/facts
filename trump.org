@@ -48,6 +48,6 @@
 - “It’s freezing and snowing in New York – we need global warming!” [fn:1]
 
 * Sources
-[fn:1] http://www.marieclaire.co.uk/entertainment/people/donald-trump-quotes-57213
-[fn:wsj] http://graphics.wsj.com/elections/2016/donald-trump-hillary-clinton-on-foreign-policy/
-[fn:tp] https://thinkprogress.org/9-terrifying-things-donald-trump-has-publicly-said-about-nuclear-weapons-99f6290bc32a#.v1mt68sjw
+- [fn:1] http://www.marieclaire.co.uk/entertainment/people/donald-trump-quotes-57213
+- [fn:wsj] http://graphics.wsj.com/elections/2016/donald-trump-hillary-clinton-on-foreign-policy/
+- [fn:tp] https://thinkprogress.org/9-terrifying-things-donald-trump-has-publicly-said-about-nuclear-weapons-99f6290bc32a#.v1mt68sjw
