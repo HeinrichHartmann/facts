@@ -1,0 +1,65 @@
+* Result Table by Standard.co.uk
+:PROPERTIES:
+:SRC:http://www.standard.co.uk/news/world/us-election-2016-live-results-map-by-state-as-they-come-in-a3390376.html
+:END:
+
+| State             | Winner         | No of College votes |
+|-------------------+----------------+---------------------|
+| Alabama           | Trump          |                   9 |
+| Alaska            | Trump          |                   3 |
+| Arizona           | Trump          |                  11 |
+| Arkansas          | Trump          |                   6 |
+| California        | Clinton        |                  55 |
+| Colorado          | Clinton        |                   9 |
+| Conneticut        | Clinton        |                   7 |
+| Delaware          | Clinton        |                   3 |
+| Dist. of Colombia | Clinton        |                   3 |
+| Florida           | Trump          |                  29 |
+| Georgia           | Trump          |                  16 |
+| Hawaii            | Clinton        |                   4 |
+| Idaho             | Trump          |                   4 |
+| Illinois          | Clinton        |                  20 |
+| Indiana           | Trump          |                  11 |
+| Iowa              | Trump          |                   6 |
+| Kansas            | Trump          |                   6 |
+| Kentucky          | Trump          |                   8 |
+| Louisiana         | Trump          |                   8 |
+| Maryland          | Clinton        |                  10 |
+| Massachusetts     | Clinton        |                  11 |
+| Michigan          | Result pending |                  16 |
+| Minnesota         | Result pending |                  10 |
+| Mississippi       | Trump          |                   6 |
+| Missouri          | Trump          |                  10 |
+| Montana           | Trump          |                   3 |
+| Nebraska*         | Trump          |                   5 |
+| Nevada            | Clinton        |                   6 |
+| New Hampshire     | Result pending |                   4 |
+| New Jersey        | Clinton        |                  14 |
+| New Mexico        | Clinton        |                   5 |
+| New York          | Clinton        |                  29 |
+| North Carolina    | Trump          |                  15 |
+| North Dakota      | Trump          |                   3 |
+| Ohio              | Trump          |                  18 |
+| Oklahoma          | Trump          |                   7 |
+| Oregon            | Clinton        |                   7 |
+| Pennsylvania      | Trump          |                  20 |
+| Rhode Island      | Clinton        |                   4 |
+| South Carolina    | Trump          |                   9 |
+| South Dakota      | Trump          |                   3 |
+| Tennessee         | Trump          |                  11 |
+| Texas             | Trump          |                  38 |
+| Utah              | Trump          |                   6 |
+| Vermont           | Clinton        |                   3 |
+| Virginia          | Clinton        |                  13 |
+| Washington        | Clinton        |                  12 |
+| West Virginia     | Trump          |                   5 |
+| Wisconsin         | Trump          |                  10 |
+| Wyoming           | Trump          |                   3 |
+| Maine1            | Clinton        |                   3 |
+| Maine2            | Trump          |                   1 |
+
+
+* Overview Economist
+http://infographics.economist.com/2016/us-election-night/
+
+[[file:results-by-state.economist.png]]
